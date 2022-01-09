@@ -10,5 +10,5 @@ Background: Previously the marketing strategy was based on building general awar
 
 Data Source This analysis contains:
 
-Bike-sharing data from Chicago between April 2020 and August 2021: https://divvy-tripdata.s3.amazonaws.com/index.html
-Weather information from the city of Chicago during the same period of time obtained from World Weather Online: https://www.worldweatheronline.com/
+1. Bike-sharing data from Chicago between April 2020 and August 2021: https://divvy-tripdata.s3.amazonaws.com/index.html
+2. Weather information from the city of Chicago during the same period of time obtained from World Weather Online: https://www.worldweatheronline.com/
