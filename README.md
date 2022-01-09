@@ -1,6 +1,7 @@
 # Analysis of Bike Sharing in Chicag SQL
 
 Analyzing the usage of the bike sharing data in Chicago and to increase annual memberships
+
 Complete case study: https://medium.com/@urruchua.xabier/bike-share-chicago-case-study-72444a268dd1
 
 This case study is part of "Google Data Analytics Certificate". A marketing analyst analyzes the usage of the bike sharing data in Chicago and to increase annual memberships.
