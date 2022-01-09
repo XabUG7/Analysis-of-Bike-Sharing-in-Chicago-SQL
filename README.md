@@ -1,4 +1,4 @@
-# Analysis of Bike Sharing in Chicag SQL
+# Analysis of Bike Sharing in Chicago SQL
 
 Analyzing the usage of the bike sharing data in Chicago and to increase annual memberships
 
